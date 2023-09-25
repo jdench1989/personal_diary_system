@@ -166,7 +166,7 @@ diary.list_todos() => ("Title 3", "#TODO. Contents 3 which are even longer still
 
 """
 Given multiple entries
-Cans elect and return a list of all phone numbers found across all entries
+Can select and return a list of all phone numbers found across all entries
 """
 diary = Diary()
 entry1 = Entry("Title 1", "Contents 1 contains the number 07802000000")
